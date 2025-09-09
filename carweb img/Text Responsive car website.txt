@@ -1,0 +1,113 @@
+============= HEADER ===========
+.nav__logo
+AVENTADOR
+
+.nav__link
+Home - About - Models - Information - Contact
+
+
+============= HOME ===========
+.home__subtitle
+CHOOSE YOUR AVENTADOR
+
+.home__subtitle
+AVENTADOR
+
+.home__button
+START
+
+
+============= ABOUT ===========
+.section__title
+DESIGNED TO <br>
+<span>GO BEYOUND</span> <br>
+PERFORMANCE
+
+.about__description
+Revolutionay thinking is at the heart of
+every Lamborghtni car idea, whether it is
+ the design inspired by the aerospace
+ industry or the technology's applied to
+ natural aspiration.
+
+ .button
+ DETAILS
+
+
+
+ ============= MODELS ===========
+ .section section__title
+ INSPIRED BY <br>
+ COLORS OF NATURE
+
+ .models__name .midels__info
+ Silve Aventador
+ 355km/s
+
+ Yellow Aventador
+ 355km/s
+
+ Blue Aventador
+ 355km/s
+
+
+  ============= INFORMATION ===========
+.section__subtitle
+CHOOSE YOUR AVENTADOR
+
+.section__title
+AVENTADOR LP <br>
+780-4 ULTIME
+
+.info__number 
+780-4
+
+.info__group h3 - p 
+POWER (KW)
+780 CV (574 KW) <br> 8.500 rpm
+
+MAX.SPEED
+355km/h
+
+0-100 KM/H
+2.8 - 2.9s
+
+
+============= CONTACT ===========
+.section__title
+SUBSCRIBE TO GET <br>
+YOUR AVENTADOR
+
+.contact__label
+Names
+Email
+
+
+.contact__input
+Enter names
+Enter email
+
+
+.button
+SEND EMAIL
+
+
+============= FOOTER ===========
+.footer__logo
+AVENTADOR
+
+.footer__links
+Privacy & Legal
+Contact
+Locatiions
+News
+Forums
+
+.footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com
+
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
